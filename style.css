@@ -1,0 +1,24 @@
+.image-center {
+    vertical-align: middle;
+    margin: 1em 0;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.vert-center {
+    min-height: 10em;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.horz-center {
+    text-align: center;
+}
+
+html, body {
+    height: 100%;
+}
